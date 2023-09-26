@@ -4,15 +4,15 @@
 
 <div align="center">
   <h3>
-    <a href="#" color="white">
+    <a href="https://intro-component-with-sign-up-form-inky-beta.vercel.app/" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://github.com/TTsintsadze/intro-component-with-sign-up-form">
       Solution
     </a>
    <span> | </span>
-    <a href="#">
+    <a href="https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1">
       Challenge
     </a>
   </h3>
